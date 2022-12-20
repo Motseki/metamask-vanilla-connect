@@ -1,0 +1,26 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/onboarding": "^1.0.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designcourse/metamask-connect-vanilla-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/designcourse/metamask-connect-vanilla-js/issues"
+  },
+  "homepage": "https://github.com/designcourse/metamask-connect-vanilla-js#readme",
+  "description": ""
+}
